@@ -1,0 +1,4 @@
+CREATE TABLE AnotherTable (
+    Id INT PRIMARY KEY IDENTITY,
+    Description NVARCHAR(255) NOT NULL
+);
